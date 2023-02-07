@@ -1,0 +1,13 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "admobBanner": "ca-app-pub-7682816481695169/9547495992",
+    "admobInterstitial": "ca-app-pub-7682816481695169/8312088332",
+    "applovinBanner": "d8999138f785fca1",
+    "applovinInterstitial": "396ab6ab501a1077",
+    "unityGameId": "5154212",
+    "testMode": true,
+    "unityBanner": "One_Anime_Piece_Wallpapers_HD",
+    "unityInterstitial": "One_Anime_Piece_Wallpapers-HD"
+  }
+}
